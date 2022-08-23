@@ -14,7 +14,6 @@ import androidx.appcompat.app.AppCompatActivity;
 import com.example.bootcal.DBManager.DBManager;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
-
 /**
  * <h2>Calender Event</h2>
  * This is the Calender activity of the this application
@@ -104,8 +103,6 @@ public class CalenderActivity extends AppCompatActivity {
                 }
             }
         });
-
-
     }
 
     /**
